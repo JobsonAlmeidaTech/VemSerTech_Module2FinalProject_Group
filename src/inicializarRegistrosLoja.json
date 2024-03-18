@@ -1,0 +1,16 @@
+{
+    "gerente": {
+        "nome": "Felipe Paiva",
+        "cpf": "230.234.876-67",
+        "tipoHabilitacao": "AB"
+    },
+    "colaboradores": [
+        {
+            "nome": "Antonio Aguiar",
+            "cpf": "210.256.221-45",
+            "tipoHabilitacao": "A"
+        }
+    ],
+    "clientes": [],
+    "veiculos": []
+}

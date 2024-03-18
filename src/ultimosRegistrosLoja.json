@@ -1,0 +1,1 @@
+{"gerente":{"nome":"Felipe Paiva","cpf":"230.234.876-67","tipoHabilitacao":"AB"},"colaboradores":[{"nome":"Antonio Aguiar","cpf":"210.256.221-45","tipoHabilitacao":"A"}],"clientes":[],"veiculos":[{"tipo":"carro","modelo":"onix","placa":"abc1223","valorDiaria":50,"nDiasAlugado":10}]}
