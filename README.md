@@ -21,7 +21,7 @@ Module 5: Node.js with Express (advanced level)
 
 Module 6: Automated Testing
 
-The course lasted 324 hours with synchronous classes every Monday, Wednesday and Friday, from 7pm to 10pm, between October 6, 2023 and March 15, 2024. You can find more information about this course here: <a href="https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech">Vem Ser Tech</a>
+The course lasted about 6 months with synchronous classes every Monday, Wednesday and Friday, from 7pm to 10pm, between October 6, 2023 and March 15, 2024. You can find more information about this course here: <a href="https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech">Vem Ser Tech</a>
 
 ## Purpose 
 
