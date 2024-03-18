@@ -25,7 +25,7 @@ The course lasted 324 hours with synchronous classes every Monday, Wednesday and
 
 ## Purpose 
 
-At the end of the second module, each student was asked to carry out an individual project and a group project. This project refers to the group one. The objective of this project was to build a system to manage a car rental. The following text bellow contains all the project requirements that were written by the module teacher. To build this project we used javascript and typescript languages and  to model it we used the unified modeling language (UML). 
+At the end of the second module, each student was asked to carry out an individual project and a group project. This project refers to the group one. The objective of this project was to build a system to manage a car rental. The following text bellow contains all the project requirements that were written by the module teacher. To build this project we used typescript language and to model it we used the unified modeling language (UML). 
 
 ## Requirements
 
